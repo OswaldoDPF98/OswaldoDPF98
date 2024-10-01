@@ -1,6 +1,6 @@
 # 👋 Hola, soy @OswaldoDPF98
 
-- 👀 Estoy interesado en el **desarrollo en Python**, **bases de datos SQL y NoSQL**, y las diversas áreas de desarrollo que se pueden explorar con Python.
+- 👀 👀 Estoy interesado en el **desarrollo en Python**, **bases de datos SQL y NoSQL** y **cloud computing**.
 - 🌱 Actualmente estoy terminando el **curso técnico de desenvolvimiento de sistemas** en **SENAI**, y estoy trabajando en el **TCC** (Trabajo de Conclusión de Curso) de mi curso, enfocándome en el desarrollo de software y la gestión de bases de datos.
 - 💼 Estoy en busca de oportunidades profesionales que estén alineadas con lo que estoy aprendiendo y estudiando, y también estoy abierto a colaborar en proyectos **open-source**.
 - 📫 Cómo contactarme:
