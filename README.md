@@ -21,4 +21,4 @@
 - 🌍 **Idiomas**:
    - **Español**: Nativo
    - **Portugués**: Avanzado
-- ⚡ **Dato curioso**: Me encantan los deportes, y soy fanático del **Barcelona FC**, **Tiburones de La Guaira** y **Orlando Magic**.
+- ⚡ **Dato curioso**: Me encantan los deportes y soy fanático del **Barcelona FC**, **Tiburones de La Guaira** y **Orlando Magic**.
