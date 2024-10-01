@@ -8,10 +8,10 @@
    - **LinkedIn**: [linkedin.com/in/oswaldo-pérez-aa1a70271](https://www.linkedin.com/in/oswaldo-p%C3%A9rez-aa1a70271/)
    - **GitHub**: [github.com/OswaldoDPF98](https://github.com/OswaldoDPF98)
 - 😄 Pronombres: Él
-- 🎯 **Objetivos Profesionales**: Mi objetivo es contribuir a proyectos innovadores en el campo del desarrollo de software, seguir aprendiendo y creciendo en la industria, y aplicar mis conocimientos para resolver problemas reales.
+- 🎯 **Objetivos Profesionales**: Mi objetivo es contribuir a proyectos innovadores en el campo del desarrollo de software, seguir aprendiendo y creciendo en la industria y aplicar mis conocimientos para resolver problemas reales.
 - 💡 **Habilidades Técnicas**:
    - **Lenguajes de Programación**: Python, SQL
-   - **Herramientas y Tecnologías**: Docker, Git, FastAPI
+   - **Herramientas y Tecnologías**: Docker, Git.
    - **Bases de Datos**: SQL, NoSQL
 - 🤝 **Habilidades Blandas**:
    - **Comunicación Efectiva**: Capacidad para comunicar ideas y soluciones de manera clara y concisa.
