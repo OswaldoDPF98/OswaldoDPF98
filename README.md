@@ -5,7 +5,7 @@
 - 💼 Estoy en busca de oportunidades profesionales que estén alineadas con lo que estoy aprendiendo y estudiando, y también estoy abierto a colaborar en proyectos **open-source**.
 - 📫 Cómo contactarme:
    - **Correo electrónico**: [oswaldodpf98@gmail.com](mailto:oswaldodpf98@gmail.com)
-   - **LinkedIn**: [linkedin.com/in/oswaldo-pérez-aa1a70271](https://www.linkedin.com/in/oswaldo-p%C3%A9rez-aa1a70271/)
+   - **LinkedIn**: https://www.linkedin.com/in/oswaldo-perez-flores-aa1a70271/
    - **GitHub**: [github.com/OswaldoDPF98](https://github.com/OswaldoDPF98)
 - 😄 Pronombres: Él
 - 🎯 **Objetivos Profesionales**: Contribuir en proyectos en el campo del desarrollo de software, seguir aprendiendo y creciendo en la industria y aplicar mis conocimientos para resolver problemas reales.
