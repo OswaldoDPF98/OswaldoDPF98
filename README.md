@@ -32,4 +32,4 @@
 - **Inglés**: Intermedio
 
 ## ⚡ Dato curioso
-Me encantan los deportes y soy fanático del **Barcelona FC**, **Tiburones de La Guaira**, **Orlando Magic** y **Tampa Bay Rays**.
+Me encantan los deportes y soy fanático del **FC Barcelona**, **Tiburones de La Guaira**, **Orlando Magic** y **Tampa Bay Rays**.
